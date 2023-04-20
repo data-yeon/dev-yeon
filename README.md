@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![HitCount](http://hits.dwyl.com/ryanking13/my-awesome-repository.svg)
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-yeon.github.io/)](https://dev-yeon.github.io/)
 	
