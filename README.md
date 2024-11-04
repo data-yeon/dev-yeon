@@ -6,13 +6,9 @@
 ### <div align="center">I'm Yeon😉 </div>  
   
 
-- 🌱 I’m currently learning Python and Swift  
-  
+- 🌱 I’m currently learning Python and React
 
-- 💭 I started studying development in 2022  
-  
-
-- 💫 My major in college is nursing and education  
+- 💫 My major in college is DataScience
   
 
 <br/>  
