@@ -29,11 +29,11 @@
 ## Github Stats  
 <tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-yeon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=data-yeon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yeon&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-yeon&hide_border=true&layout=compact" align="left" />
 
 </td></tr>
 
